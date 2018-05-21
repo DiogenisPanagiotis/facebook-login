@@ -9,7 +9,7 @@
 ## Development
 
 ```shell
-git clone https://github.com/diogenispanagiotis/react-facebook-login.git && cd react-facebook-login
+git clone https://github.com/diogenispanagiotis/facebook-login.git && cd facebook-login
 npm install react react-dom react-facebook-login --save --force
 npm start
 ```
